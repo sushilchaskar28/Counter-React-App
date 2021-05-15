@@ -1,0 +1,1 @@
+This project deals with implementation of redux to maintain global state values. It is a simple counter with modifying steps.
